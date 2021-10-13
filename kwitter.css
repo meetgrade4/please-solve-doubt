@@ -1,0 +1,21 @@
+#logo_1{
+    float: left;
+}
+
+#body_1{
+    background-image: url("bac.jpg");
+    background-size:cover;
+}
+
+.main{
+    padding-left: 500px;
+    float:initial !important;
+}
+
+.login_div{
+    background: rgba(5, 118, 170, 0.8);float: none;border-radius: 15px;
+}
+
+.header{
+    color: white;font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+}
